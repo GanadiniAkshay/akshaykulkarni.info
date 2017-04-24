@@ -1,11 +1,12 @@
-# Hi, I'm Vikas
-I'm a web developer living in Surat, India. I design, build, and ship software that helps people.
+# Hi, I'm Akshay
+I'm a Machine Learning Engineer living in Hyderabad, India. I am the Founder and CEO of Ozz.ai.
 
-I spend my days with my hands in many different areas of web development from back end programming (Django/Python, Node) to front end engineering (HTML5, CSS, and jQuery/Javascript), user experience and visual design.
+Ozz is an AI startup with the aim of improving and developing the field of conversational application development. You can learn more about it [here](https://ozz.ai).
 
-I'm an undergraduate at the National Institute of Technology Surat, India studying Applied Physics. Here's my [resume](http://vikasparashar.in/vikas-parashar-resume.pdf).
+I worked at Microsoft, on the data engineer team before starting ozz. Here's my [resume](http://vikasparashar.in/vikas-parashar-resume.pdf).
+
+### Credits
+This has been forked from [vikas-parashar](https://github.com/vikas-parashar/vikasparashar.in)
 
 ### License
 The MIT License (MIT)
-
-Feel free to use and give credits if you want or whatever :)
