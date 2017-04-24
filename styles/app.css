@@ -8,12 +8,12 @@ html {
 }
 
 body {
-  background: #28a5a8;
+  background: #fafafa;
   color: #333; 
   font-family: 'Quicksand', sans-serif;
 }
 body h1 {
-  background-color: #ffeb3b;
+  background-color: #28a5a8;
   font-family: 'Quicksand', sans-serif;
   font-size: 4.8rem;
   font-weight: 400;
@@ -78,7 +78,7 @@ body a:hover {
   font-weight: 700;
 }
 body nav {
-  background-color: #ffeb3b;
+  background-color: #28a5a8;
 }
 body nav .logo {
   margin: 30px 30px; 
